@@ -1,1 +1,4 @@
-# CefSharpExample
+
+# CefSharpExample测试安装部署工程
+这块上传到GitHub的文件没有NuGet包，这块需要Clone代码后运行工程补全NuGet包，当前使用版本为CefSharp71，VS使用VS2013.
+
